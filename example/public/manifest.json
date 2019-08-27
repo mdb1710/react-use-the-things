@@ -1,0 +1,8 @@
+{
+  "short_name": "@codebymdb/react-all-the-things",
+  "name": "@codebymdb/react-all-the-things",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
